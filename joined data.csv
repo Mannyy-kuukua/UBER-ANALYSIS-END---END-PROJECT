@@ -1,0 +1,266 @@
+,LocationID,Location,City,trip_id,pickup_time,dropoff_time,passenger_count,trip_distance,pulocationid,dolocationid,fare_amount,surge_fee,vehicle,trip_detailspayment_type,total_revenue,weekday,month,hour,weekly,trip_duration
+0,1,Newark Airport,"Newark, New Jersey",1,2024-06-01 00:42:00,2024-06-01 01:04:00,1,5.6,79,226,19.5,2.0,UberX,Uber Pay,21.5,Saturday,June,0,22,22.0
+1,2,Jamaica Bay,Queens,2,2024-06-01 00:06:00,2024-06-01 00:13:00,1,1.72,142,186,8.0,0.0,Uber Black,Cash,8.0,Saturday,June,0,22,7.0
+2,3,Allerton/Pelham Gardens,The Bronx,3,2024-06-01 00:08:00,2024-06-01 00:21:00,1,3.41,229,238,13.0,0.0,Uber Black,Cash,13.0,Saturday,June,0,22,13.0
+3,4,Alphabet City,Manhattan,4,2024-06-01 00:28:00,2024-06-01 00:37:00,1,1.81,188,35,9.0,0.0,UberX,Cash,9.0,Saturday,June,0,22,9.0
+4,5,Arden Heights,Staten Island,5,2024-06-01 00:38:00,2024-06-01 00:45:00,1,1.89,100,137,8.0,0.0,Uber Black,Cash,8.0,Saturday,June,0,22,7.0
+5,6,Arrochar/Fort Wadsworth,Staten Island,6,2024-06-01 00:06:00,2024-06-01 00:22:00,6,3.29,41,143,14.0,0.0,UberX,Cash,14.0,Saturday,June,0,22,16.0
+6,7,Astoria,Queens,7,2024-06-01 00:40:00,2024-06-01 00:48:00,2,2.05,142,141,8.5,0.0,UberX,Cash,8.5,Saturday,June,0,22,8.0
+7,8,Astoria Park,Queens,8,2024-06-01 00:32:00,2024-06-01 00:42:00,2,3.54,48,75,12.5,0.0,Uber Comfort,Cash,12.5,Saturday,June,0,22,10.0
+8,9,Auburndale,Queens,9,2024-06-01 00:20:00,2024-06-01 00:23:00,1,1.1,48,246,5.5,0.0,Uber Green,Cash,5.5,Saturday,June,0,22,3.0
+9,10,Baisley Park,Queens,10,2024-06-01 00:54:00,2024-06-01 01:03:00,2,1.9,140,230,9.0,3.0,UberX,Uber Pay,12.0,Saturday,June,0,22,9.0
+10,11,Bath Beach,Brooklyn,11,2024-06-01 00:18:00,2024-06-01 00:37:00,1,6.66,48,42,22.0,6.0,UberXL,Uber Pay,28.0,Saturday,June,0,22,19.0
+11,12,Battery Park,Manhattan,12,2024-06-01 00:17:00,2024-06-01 00:40:00,2,13.12,137,182,36.5,0.0,Uber Comfort,Uber Pay,36.5,Saturday,June,0,22,23.0
+12,13,Battery Park City,Manhattan,13,2024-06-01 00:00:00,2024-06-01 00:31:00,1,12.59,132,189,37.0,0.0,Uber Green,Cash,37.0,Saturday,June,0,22,31.0
+13,15018,05/06/2024 18:26,Brooklyn,14,2024-06-01 00:21:00,2024-06-01 00:25:00,1,1.1,48,142,5.5,0.0,UberXL,Cash,5.5,Saturday,June,0,22,4.0
+14,15,Bay Terrace/Fort Totten,Queens,15,2024-06-01 00:29:00,2024-06-01 00:48:00,1,9.0,166,148,27.0,0.0,UberX,Cash,27.0,Saturday,June,0,22,19.0
+15,16,Bayside,Queens,16,2024-06-01 00:46:00,2024-06-01 00:53:00,1,2.12,137,140,8.0,2.0,Uber Black,Uber Pay,10.0,Saturday,June,0,22,7.0
+16,15019,Bedford,Brooklyn,17,2024-06-01 00:46:00,2024-06-01 00:58:00,1,3.0,163,79,12.0,1.0,UberXL,Uber Pay,13.0,Saturday,June,0,22,12.0
+17,18,Bedford Park,The Bronx,18,2024-06-01 00:14:00,2024-06-01 00:25:00,1,3.1,114,209,11.5,3.0,Uber Comfort,Uber Pay,14.5,Saturday,June,0,22,11.0
+18,19,Bellerose,Queens,19,2024-06-01 00:42:00,2024-06-01 01:01:00,1,5.63,80,170,19.0,2.0,UberXL,Uber Pay,21.0,Saturday,June,0,22,19.0
+19,15023,05/06/2024 18:18,The Bronx,20,2024-06-01 00:20:00,2024-06-01 00:25:00,1,1.53,48,234,6.5,2.0,Uber Green,Uber Pay,8.5,Saturday,June,0,22,5.0
+20,21,Bensonhurst East,Brooklyn,21,2024-06-01 00:44:00,2024-06-01 00:54:00,1,1.7,97,189,8.5,0.0,Uber Comfort,Cash,8.5,Saturday,June,0,22,10.0
+21,22,Bensonhurst West,Brooklyn,22,2024-06-01 00:04:00,2024-06-01 00:25:00,1,5.8,186,255,19.5,6.0,UberXL,Uber Pay,25.5,Saturday,June,0,22,21.0
+22,15024,05/06/2024 18:34,Staten Island,23,2024-06-01 00:50:00,2024-06-01 01:00:00,1,2.5,186,114,10.5,0.0,Uber Comfort,Uber Pay,10.5,Saturday,June,0,22,10.0
+23,24,Bloomingdale,Manhattan,24,2024-06-01 00:03:00,2024-06-01 00:23:00,1,4.59,48,209,17.0,4.0,Uber Comfort,Uber Pay,21.0,Saturday,June,0,22,20.0
+24,25,Boerum Hill,Brooklyn,26,2024-06-01 00:02:00,2024-06-01 00:10:00,1,1.08,79,107,7.0,0.0,UberX,Cash,7.0,Saturday,June,0,22,8.0
+25,15025,05/06/2024 18:54,Brooklyn,27,2024-06-01 00:11:00,2024-06-01 00:16:00,1,1.9,48,158,7.0,0.0,Uber Green,Cash,7.0,Saturday,June,0,22,5.0
+26,27,Breezy Point/Fort Tilden/Riis Beach,Queens,28,2024-06-01 00:42:00,2024-06-01 01:08:00,1,8.18,137,61,27.0,6.0,UberX,Uber Pay,33.0,Saturday,June,0,22,26.0
+27,28,Briarwood/Jamaica Hills,Queens,29,2024-06-01 00:23:00,2024-06-01 00:37:00,1,6.54,137,25,20.5,3.0,UberXL,Uber Pay,23.5,Saturday,June,0,22,14.0
+28,29,Brighton Beach,Brooklyn,30,2024-06-01 00:20:00,2024-06-01 00:36:00,6,3.68,140,68,14.0,5.0,UberXL,Uber Pay,19.0,Saturday,June,0,22,16.0
+29,30,Broad Channel,Queens,31,2024-06-01 00:17:00,2024-06-01 00:26:00,1,1.9,170,148,8.5,0.0,UberX,Cash,8.5,Saturday,June,0,22,9.0
+30,31,Bronx Park,The Bronx,32,2024-06-01 01:08:00,2024-06-01 01:17:00,1,2.4,75,42,9.0,0.0,UberXL,Cash,9.0,Saturday,June,1,22,9.0
+31,15026,Bronxdale,The Bronx,33,2024-06-01 01:23:00,2024-06-01 01:38:00,1,7.5,151,153,22.5,0.0,UberX,Uber Pay,22.5,Saturday,June,1,22,15.0
+32,33,Brooklyn Heights,05/06/2024 18:12,34,2024-06-01 01:19:00,2024-06-01 01:30:00,1,1.87,238,152,9.5,0.0,Uber Green,Cash,9.5,Saturday,June,1,22,11.0
+33,34,Brooklyn Navy Yard,Brooklyn,35,2024-06-01 01:22:00,2024-06-01 01:52:00,2,7.91,100,116,24.5,0.0,UberXL,Cash,24.5,Saturday,June,1,22,30.0
+34,35,Brownsville,Brooklyn,36,2024-06-01 01:13:00,2024-06-01 01:31:00,1,5.3,161,74,18.0,0.0,UberX,Uber Pay,18.0,Saturday,June,1,22,18.0
+35,36,Bushwick North,Brooklyn,37,2024-06-01 01:32:00,2024-06-01 01:55:00,1,3.4,48,231,16.5,0.0,Uber Black,Cash,16.5,Saturday,June,1,22,23.0
+36,37,Bushwick South,Brooklyn,38,2024-06-01 01:25:00,2024-06-01 01:34:00,2,2.33,238,74,9.5,0.0,UberX,Cash,9.5,Saturday,June,1,22,9.0
+37,15027,Cambria Heights,Queens,39,2024-06-01 01:08:00,2024-06-01 01:15:00,1,1.6,193,145,8.0,0.0,UberX,Cash,8.0,Saturday,June,1,22,7.0
+38,39,Canarsie,Brooklyn,40,2024-06-01 01:05:00,2024-06-01 01:17:00,1,4.3,170,74,13.5,3.0,UberX,Uber Pay,16.5,Saturday,June,1,22,12.0
+39,40,Carroll Gardens,Brooklyn,41,2024-06-01 01:39:00,2024-06-01 01:48:00,1,2.53,151,116,10.0,0.0,Uber Comfort,Cash,10.0,Saturday,June,1,22,9.0
+40,15028,05/06/2024 18:37,Manhattan,42,2024-06-01 01:13:00,2024-06-01 01:24:00,1,4.8,137,217,15.5,0.0,Uber Black,Cash,15.5,Saturday,June,1,22,11.0
+41,42,Central Harlem North,Manhattan,43,2024-06-01 01:43:00,2024-06-01 02:01:00,1,7.5,249,166,23.5,0.0,UberX,Amazon Pay,23.5,Saturday,June,1,22,18.0
+42,43,Central Park,Manhattan,44,2024-06-01 01:40:00,2024-06-01 01:52:00,1,3.43,48,79,13.0,0.0,Uber Green,Cash,13.0,Saturday,June,1,22,12.0
+43,44,Charleston/Tottenville,Staten Island,45,2024-06-01 01:14:00,2024-06-01 01:26:00,1,2.73,238,116,11.0,0.0,Uber Black,Cash,11.0,Saturday,June,1,22,12.0
+44,15031,05/06/2024 18:16,Manhattan,46,2024-06-01 01:21:00,2024-06-01 01:34:00,1,4.64,170,74,14.5,4.0,Uber Green,Uber Pay,18.5,Saturday,June,1,22,13.0
+45,46,City Island,The Bronx,47,2024-06-01 01:41:00,2024-06-01 01:51:00,1,2.61,144,170,10.0,0.0,Uber Comfort,Cash,10.0,Saturday,June,1,22,10.0
+46,15033,Claremont/Bathgate,The Bronx,48,2024-06-01 01:25:00,2024-06-01 01:41:00,1,3.84,71,17,14.0,0.0,UberX,Cash,14.0,Saturday,June,1,22,16.0
+47,48,Clinton East,Manhattan,49,2024-06-01 01:30:00,2024-06-01 01:30:00,1,3.0,231,231,2.5,0.0,Uber Comfort,Cash,2.5,Saturday,June,1,22,0.0
+48,15035,Clinton Hill,Brooklyn,50,2024-06-01 01:49:00,2024-06-01 02:04:00,1,7.27,68,42,21.5,5.0,Uber Green,Uber Pay,26.5,Saturday,June,1,22,15.0
+49,15036,05/06/2024 18:10,Manhattan,51,2024-06-01 01:43:00,2024-06-01 01:49:00,1,1.32,129,7,7.0,0.0,Uber Comfort,Cash,7.0,Saturday,June,1,22,6.0
+50,15038,05/06/2024 18:39,The Bronx,52,2024-06-01 01:16:00,2024-06-01 01:47:00,1,11.7,24,225,35.5,0.0,UberX,Cash,35.5,Saturday,June,1,22,31.0
+51,15041,Cobble Hill,Brooklyn,53,2024-06-01 01:49:00,2024-06-02 01:24:00,1,19.31,35,115,53.5,3.0,Uber Black,Uber Pay,56.5,Saturday,June,1,22,1415.0
+52,53,College Point,Queens,54,2024-06-01 01:19:00,2024-06-01 01:40:00,1,4.95,230,42,19.0,2.0,UberX,Uber Pay,21.0,Saturday,June,1,22,21.0
+53,15042,Columbia Street,Brooklyn,55,2024-06-01 01:12:00,2024-06-01 01:28:00,2,4.02,86,201,15.5,0.0,Uber Black,Cash,15.5,Saturday,June,1,22,16.0
+54,55,Coney Island,Brooklyn,56,2024-06-01 01:49:00,2024-06-01 02:02:00,1,2.5,264,264,11.5,0.0,UberXL,Cash,11.5,Saturday,June,1,22,13.0
+55,15044,05/06/2024 18:04,05/06/2024 18:10,57,2024-06-01 01:47:00,2024-06-01 02:04:00,1,2.6,100,114,13.0,3.0,UberX,Uber Pay,16.0,Saturday,June,1,22,17.0
+56,15045,Corona,The Bronx,58,2024-06-01 01:13:00,2024-06-01 01:23:00,4,3.27,148,181,12.0,3.0,UberX,Uber Pay,15.0,Saturday,June,1,22,10.0
+57,15047,Country Club,The Bronx,59,2024-06-01 01:35:00,2024-06-01 02:26:00,2,6.25,144,65,34.0,0.0,Uber Comfort,Cash,34.0,Saturday,June,1,22,51.0
+58,59,Crotona Park,The Bronx,60,2024-06-01 01:17:00,2024-06-01 01:34:00,1,7.9,45,260,24.5,0.0,UberX,Cash,24.5,Saturday,June,1,22,17.0
+59,60,Crotona Park East,Brooklyn,61,2024-06-01 01:09:00,2024-06-01 01:19:00,1,2.2,144,186,10.0,0.0,Uber Green,Cash,10.0,Saturday,June,1,22,10.0
+60,15048,Crown Heights North,Brooklyn,62,2024-06-01 02:06:00,2024-06-01 02:24:00,1,11.59,137,241,32.0,0.0,UberX,Cash,32.0,Saturday,June,2,22,18.0
+61,62,Crown Heights South,Brooklyn,63,2024-06-01 02:51:00,2024-06-01 02:58:00,1,1.86,170,114,8.0,0.0,UberX,Cash,8.0,Saturday,June,2,22,7.0
+62,63,Cypress Hills,Queens,64,2024-06-01 02:25:00,2024-06-01 02:35:00,2,2.48,234,229,10.0,4.0,Uber Black,Uber Pay,14.0,Saturday,June,2,22,10.0
+63,15049,Douglaston,Brooklyn,65,2024-06-01 02:03:00,2024-06-01 02:25:00,1,5.7,229,129,21.0,0.0,UberX,Cash,21.0,Saturday,June,2,22,22.0
+64,15051,05/06/2024 18:34,Brooklyn,66,2024-06-01 02:25:00,2024-06-01 02:35:00,1,3.05,113,48,11.5,2.0,Uber Green,Uber Pay,13.5,Saturday,June,2,22,10.0
+65,66,DUMBO/Vinegar Hill,Brooklyn,67,2024-06-01 02:15:00,2024-06-01 02:18:00,2,1.22,114,164,5.5,0.0,Uber Green,Cash,5.5,Saturday,June,2,22,3.0
+66,15053,05/06/2024 18:01,05/06/2024 18:06,68,2024-06-01 02:26:00,2024-06-01 02:48:00,2,3.71,170,170,17.5,0.0,Uber Green,Cash,17.5,Saturday,June,2,22,22.0
+67,15054,East Chelsea,The Bronx,69,2024-06-01 02:37:00,2024-06-01 02:58:00,5,11.12,186,121,31.5,0.0,Uber Comfort,Cash,31.5,Saturday,June,2,22,21.0
+68,69,East Concourse/Concourse Village,Queens,70,2024-06-01 02:56:00,2024-06-01 03:18:00,1,6.04,65,165,22.0,0.0,Uber Comfort,Uber Pay,22.0,Saturday,June,2,22,22.0
+69,15056,05/06/2024 18:48,05/06/2024 18:58,71,2024-06-01 02:00:00,2024-06-01 02:19:00,1,5.38,97,186,18.5,0.0,UberX,Cash,18.5,Saturday,June,2,22,19.0
+70,71,East Flatbush/Farragut,Brooklyn,72,2024-06-01 02:10:00,2024-06-01 02:36:00,6,5.9,74,234,19.0,0.0,Uber Green,Cash,19.0,Saturday,June,2,22,26.0
+71,15058,05/06/2024 18:00,Queens,73,2024-06-01 02:01:00,2024-06-01 02:11:00,2,2.3,263,230,9.5,1.0,UberX,Uber Pay,10.5,Saturday,June,2,22,10.0
+72,15061,05/06/2024 18:28,05/06/2024 18:36,74,2024-06-01 02:36:00,2024-06-01 02:46:00,1,2.4,92,53,10.0,0.0,Uber Black,Cash,10.0,Saturday,June,2,22,10.0
+73,74,East Harlem North,Manhattan,75,2024-06-01 03:56:00,2024-06-01 04:11:00,1,9.4,74,88,26.0,1.0,UberX,Uber Pay,27.0,Saturday,June,3,22,15.0
+74,15062,East Harlem South,Brooklyn,76,2024-06-01 03:55:00,2024-06-01 04:02:00,1,2.0,238,143,8.0,0.0,UberX,Cash,8.0,Saturday,June,3,22,7.0
+75,76,East New York,Brooklyn,77,2024-06-01 03:59:00,2024-06-01 04:18:00,1,8.3,79,168,24.5,0.0,UberX,Cash,24.5,Saturday,June,3,22,19.0
+76,15064,East New York/Pennsylvania Avenue,The Bronx,78,2024-06-01 03:04:00,2024-06-01 03:24:00,1,15.87,238,16,43.0,0.0,Uber Comfort,Uber Pay,43.0,Saturday,June,3,22,20.0
+77,78,East Tremont,Manhattan,79,2024-06-01 03:30:00,2024-06-01 03:44:00,1,5.05,90,43,15.5,0.0,UberX,Cash,15.5,Saturday,June,3,22,14.0
+78,15066,05/06/2024 17:57,Brooklyn,80,2024-06-01 03:28:00,2024-06-01 03:39:00,2,3.54,262,137,12.0,3.0,Uber Green,Uber Pay,15.0,Saturday,June,3,22,11.0
+79,15068,05/06/2024 18:32,The Bronx,81,2024-06-01 03:37:00,2024-06-01 03:42:00,1,1.8,48,90,7.0,2.0,Uber Black,Uber Pay,9.0,Saturday,June,3,22,5.0
+80,15069,Eastchester,Queens,82,2024-06-01 03:44:00,2024-06-01 03:50:00,1,1.38,186,246,7.0,0.0,UberX,Cash,7.0,Saturday,June,3,22,6.0
+81,82,Elmhurst,Queens,83,2024-06-01 03:18:00,2024-06-01 03:23:00,1,1.41,186,48,6.5,0.0,UberXL,Cash,6.5,Saturday,June,3,22,5.0
+82,15070,Elmhurst/Maspeth,Staten Island,84,2024-06-01 03:54:00,2024-06-01 04:01:00,1,1.23,239,142,7.0,0.0,UberX,Cash,7.0,Saturday,June,3,22,7.0
+83,15071,Eltingville/Annadale/Prince's Bay,Brooklyn,85,2024-06-01 03:14:00,2024-06-01 03:38:00,2,16.77,168,76,45.0,0.0,UberX,Cash,45.0,Saturday,June,3,22,24.0
+84,85,Erasmus,Queens,86,2024-06-01 03:10:00,2024-06-01 03:41:00,1,8.3,79,72,27.5,0.0,UberX,Cash,27.5,Saturday,June,3,22,31.0
+85,86,Far Rockaway,Manhattan,87,2024-06-01 03:46:00,2024-06-01 03:57:00,2,3.1,75,42,11.5,0.0,UberX,Cash,11.5,Saturday,June,3,22,11.0
+86,15073,Financial District North,Manhattan,88,2024-06-01 04:34:00,2024-06-01 04:44:00,1,2.61,45,170,10.0,3.0,Uber Comfort,Uber Pay,13.0,Saturday,June,4,22,10.0
+87,15075,Financial District South,Brooklyn,89,2024-06-01 04:04:00,2024-06-01 04:33:00,2,13.15,114,47,38.5,0.0,UberX,Cash,38.5,Saturday,June,4,22,29.0
+88,89,Flatbush/Ditmas Park,Manhattan,90,2024-06-01 04:55:00,2024-06-01 05:03:00,2,2.85,244,41,10.5,0.0,Uber Black,Cash,10.5,Saturday,June,4,22,8.0
+89,90,Flatiron,Brooklyn,91,2024-06-01 04:38:00,2024-06-01 04:50:00,1,4.2,238,168,14.0,1.0,UberX,Uber Pay,15.0,Saturday,June,4,22,12.0
+90,91,Flatlands,Queens,92,2024-06-01 04:08:00,2024-06-01 04:23:00,1,3.45,186,148,13.5,0.0,UberXL,Cash,13.5,Saturday,June,4,22,15.0
+91,92,Flushing,Queens,93,2024-06-01 04:19:00,2024-06-01 04:25:00,1,1.8,42,74,8.0,0.0,UberX,Cash,8.0,Saturday,June,4,22,6.0
+92,93,Flushing Meadows-Corona Park,The Bronx,94,2024-06-01 04:10:00,2024-06-01 04:28:00,1,8.7,95,132,27.0,0.0,UberX,Cash,27.0,Saturday,June,4,22,18.0
+93,15078,Fordham South,Queens,95,2024-06-01 03:57:00,2024-06-01 04:39:00,1,8.8,28,77,25.5,0.0,Uber Comfort,Uber Pay,25.5,Saturday,June,3,22,42.0
+94,95,Forest Hills,Queens,96,2024-06-01 04:11:00,2024-06-01 04:33:00,1,10.83,137,78,31.0,0.0,UberX,Uber Pay,31.0,Saturday,June,4,22,22.0
+95,96,Forest Park/Highland Park,Brooklyn,97,2024-06-01 05:13:00,2024-06-01 05:21:00,1,1.3,239,236,7.5,0.0,UberX,Cash,7.5,Saturday,June,5,22,8.0
+96,15079,Fort Greene,Queens,98,2024-06-01 05:56:00,2024-06-01 06:00:00,1,1.1,238,75,5.5,1.0,Uber Green,Uber Pay,6.5,Saturday,June,5,22,4.0
+97,98,Fresh Meadows,Staten Island,99,2024-06-01 05:30:00,2024-06-01 05:42:00,6,5.02,151,68,16.0,0.0,UberX,Cash,16.0,Saturday,June,5,22,12.0
+98,15080,05/06/2024 18:29,05/06/2024 18:35,100,2024-06-01 05:32:00,2024-06-01 05:41:00,1,2.52,164,140,10.5,3.0,UberX,Uber Pay,13.5,Saturday,June,5,22,9.0
+99,15081,Garment District,Queens,101,2024-06-01 05:29:00,2024-06-01 05:37:00,1,1.8,186,163,8.5,2.0,Uber Black,Uber Pay,10.5,Saturday,June,5,22,8.0
+100,15082,Glen Oaks,Queens,102,2024-06-01 05:30:00,2024-06-01 05:36:00,2,1.65,186,162,7.5,2.0,UberX,Uber Pay,9.5,Saturday,June,5,22,6.0
+101,102,Glendale,Manhattan,103,2024-06-01 05:20:00,2024-06-01 05:34:00,1,8.95,132,95,26.0,0.0,UberX,Cash,26.0,Saturday,June,5,22,14.0
+102,15083,05/06/2024 18:37,05/06/2024 19:09,104,2024-06-01 05:24:00,2024-06-01 05:28:00,3,1.15,186,161,5.5,2.0,Uber Black,Uber Pay,7.5,Saturday,June,5,22,4.0
+103,104,Governor's Island/Ellis Island/Liberty Island,Manhattan,105,2024-06-01 05:27:00,2024-06-01 05:38:00,1,4.2,107,88,14.5,0.0,UberX,Cash,14.5,Saturday,June,5,22,11.0
+104,105,Governor's Island/Ellis Island/Liberty Island,Brooklyn,106,2024-06-01 05:41:00,2024-06-01 05:43:00,1,1.05,74,263,5.0,0.0,Uber Green,Cash,5.0,Saturday,June,5,22,2.0
+105,106,Gowanus,Staten Island,107,2024-06-01 05:46:00,2024-06-01 05:52:00,1,1.62,142,140,7.0,2.0,UberX,Uber Pay,9.0,Saturday,June,5,22,6.0
+106,107,Gramercy,Brooklyn,108,2024-06-01 05:20:00,2024-06-01 05:25:00,4,1.56,229,237,7.0,0.0,Uber Comfort,Cash,7.0,Saturday,June,5,22,5.0
+107,15084,Gravesend,Brooklyn,109,2024-06-01 05:53:00,2024-06-01 06:08:00,1,4.7,238,168,16.5,4.0,Uber Green,Uber Pay,20.5,Saturday,June,5,22,15.0
+108,109,Great Kills,Manhattan,110,2024-06-01 05:47:00,2024-06-01 06:09:00,1,10.1,132,225,29.5,0.0,UberX,Cash,29.5,Saturday,June,5,22,22.0
+109,15086,05/06/2024 18:44,Manhattan,111,2024-06-01 05:24:00,2024-06-01 05:30:00,1,1.2,75,41,6.0,0.0,UberX,Cash,6.0,Saturday,June,5,22,6.0
+110,111,Green-Wood Cemetery,Staten Island,112,2024-06-01 05:19:00,2024-06-01 05:40:00,1,7.1,68,244,22.0,2.0,UberX,Uber Pay,24.0,Saturday,June,5,22,21.0
+111,15087,05/06/2024 18:18,05/06/2024 18:33,113,2024-06-01 05:47:00,2024-06-01 05:54:00,5,2.0,238,75,8.5,0.0,Uber Comfort,Cash,8.5,Saturday,June,5,22,7.0
+112,113,Greenwich Village North,Queens,114,2024-06-01 05:26:00,2024-06-01 05:46:00,1,7.7,100,42,24.0,0.0,UberX,Cash,24.0,Saturday,June,5,22,20.0
+113,15089,Greenwich Village South,Staten Island,115,2024-06-01 05:20:00,2024-06-01 05:26:00,1,1.59,143,48,7.5,0.0,Uber Black,Cash,7.5,Saturday,June,5,22,6.0
+114,115,Grymes Hill/Clifton,The Bronx,116,2024-06-01 05:40:00,2024-06-01 05:45:00,1,1.56,140,75,6.5,2.0,Uber Black,Uber Pay,8.5,Saturday,June,5,22,5.0
+115,15090,05/06/2024 18:13,Manhattan,117,2024-06-01 05:53:00,2024-06-01 06:05:00,1,3.73,230,79,13.0,0.0,Uber Comfort,Cash,13.0,Saturday,June,5,22,12.0
+116,117,Hammels/Arverne,Queens,118,2024-06-01 05:38:00,2024-06-01 05:47:00,1,3.3,100,236,11.5,4.0,UberX,Uber Pay,15.5,Saturday,June,5,22,9.0
+117,118,Heartland Village/Todt Hill,Queens,119,2024-06-01 05:41:00,2024-06-01 05:55:00,2,4.89,75,68,15.0,1.0,UberX,Uber Pay,16.0,Saturday,June,5,22,14.0
+118,119,Highbridge,Queens,120,2024-06-01 05:58:00,2024-06-01 06:10:00,1,3.2,186,140,12.0,0.0,Uber Green,Uber Pay,12.0,Saturday,June,5,22,12.0
+119,120,Highbridge Park,The Bronx,121,2024-06-01 04:59:00,2024-06-01 05:09:00,1,3.09,142,137,11.5,0.0,UberX,Cash,11.5,Saturday,June,4,22,10.0
+120,15094,05/06/2024 18:39,Manhattan,122,2024-06-01 05:58:00,2024-06-01 06:03:00,1,1.46,48,234,6.5,0.0,UberXL,Cash,6.5,Saturday,June,5,22,5.0
+121,122,Hollis,Manhattan,123,2024-06-01 05:33:00,2024-06-01 05:40:00,1,2.01,140,230,8.5,0.0,Uber Green,Cash,8.5,Saturday,June,5,22,7.0
+122,15095,Homecrest,Queens,124,2024-06-01 05:33:00,2024-06-01 05:41:00,3,4.1,168,169,13.5,0.0,UberX,Cash,13.5,Saturday,June,5,22,8.0
+123,15096,Howard Beach,Queens,125,2024-06-01 05:26:00,2024-06-01 05:34:00,1,1.47,137,186,8.0,0.0,UberX,Cash,8.0,Saturday,June,5,22,8.0
+124,125,Hudson Sq,Queens,126,2024-06-01 04:58:00,2024-06-01 05:04:00,1,1.35,48,90,6.5,0.0,UberX,Cash,6.5,Saturday,June,4,22,6.0
+125,126,Hunts Point,Queens,127,2024-06-01 05:24:00,2024-06-01 05:32:00,1,2.28,143,151,9.0,3.0,UberX,Uber Pay,12.0,Saturday,June,5,22,8.0
+126,127,Inwood,Brooklyn,128,2024-06-01 05:57:00,2024-06-01 06:02:00,1,1.7,100,162,7.5,0.0,Uber Black,Uber Pay,7.5,Saturday,June,5,22,5.0
+127,128,Inwood Hill Park,Queens,129,2024-06-01 05:43:00,2024-06-01 05:54:00,1,3.24,143,75,12.0,2.0,Uber Black,Uber Pay,14.0,Saturday,June,5,22,11.0
+128,129,Jackson Heights,Queens,130,2024-06-01 05:49:00,2024-06-01 05:53:00,1,1.7,75,141,6.5,5.0,UberXL,Uber Pay,11.5,Saturday,June,5,22,4.0
+129,15099,Jamaica,The Bronx,131,2024-06-01 05:19:00,2024-06-01 05:57:00,1,17.73,132,226,47.0,10.0,UberX,Uber Pay,57.0,Saturday,June,5,22,38.0
+130,131,Jamaica Estates,Manhattan,132,2024-06-01 05:59:00,2024-06-01 06:05:00,1,1.37,186,170,6.5,0.0,Uber Comfort,Cash,6.5,Saturday,June,5,22,6.0
+131,15100,05/06/2024 18:42,Queens,133,2024-06-01 05:58:00,2024-06-01 06:16:00,1,10.48,132,122,30.0,6.0,UberXL,Uber Pay,36.0,Saturday,June,5,22,18.0
+132,133,Kensington,Queens,134,2024-06-01 06:32:00,2024-06-01 06:42:00,1,2.7,238,141,10.5,2.0,UberX,Uber Pay,12.5,Saturday,June,6,22,10.0
+133,134,Kew Gardens,Manhattan,135,2024-06-01 06:40:00,2024-06-01 06:44:00,1,1.12,42,41,5.5,0.0,UberX,Cash,5.5,Saturday,June,6,22,4.0
+134,15101,05/06/2024 18:38,Manhattan,136,2024-06-01 06:29:00,2024-06-01 06:35:00,1,1.3,186,161,6.5,0.0,Uber Comfort,Cash,6.5,Saturday,June,6,22,6.0
+135,136,Kingsbridge Heights,Manhattan,137,2024-06-01 06:57:00,2024-06-01 07:02:00,1,1.7,263,162,7.0,2.0,UberXL,Uber Pay,9.0,Saturday,June,6,22,5.0
+136,137,Kips Bay,Manhattan,138,2024-06-01 06:48:00,2024-06-01 06:54:00,1,1.8,113,68,7.5,0.0,Uber Green,Cash,7.5,Saturday,June,6,22,6.0
+137,15102,05/06/2024 18:27,05/06/2024 18:35,139,2024-06-01 06:17:00,2024-06-01 06:26:00,1,1.9,186,107,8.5,2.0,UberX,Uber Pay,10.5,Saturday,June,6,22,9.0
+138,139,Laurelton,Queens,140,2024-06-01 07:41:00,2024-06-01 07:50:00,1,2.27,43,140,9.5,2.0,UberX,Uber Pay,11.5,Saturday,June,7,22,9.0
+139,140,Lenox Hill East,Queens,141,2024-06-01 06:09:00,2024-06-01 06:26:00,1,1.25,24,41,12.0,0.0,UberXL,Cash,12.0,Saturday,June,6,22,17.0
+140,15104,05/06/2024 18:47,Manhattan,142,2024-06-01 06:32:00,2024-06-01 06:43:00,1,2.79,43,140,10.5,0.0,UberX,Cash,10.5,Saturday,June,6,22,11.0
+141,142,Lincoln Square East,Manhattan,143,2024-06-01 06:07:00,2024-06-01 06:18:00,1,3.16,79,256,12.5,0.0,UberX,Cash,12.5,Saturday,June,6,22,11.0
+142,143,Lincoln Square West,Brooklyn,144,2024-06-01 06:45:00,2024-06-01 06:55:00,1,2.72,79,100,10.5,0.0,Uber Green,Cash,10.5,Saturday,June,6,22,10.0
+143,144,Little Italy/NoLiTa,Manhattan,145,2024-06-01 06:49:00,2024-06-01 06:55:00,1,1.32,75,151,6.5,0.0,UberX,Uber Pay,6.5,Saturday,June,6,22,6.0
+144,15105,Long Island City/Hunters Point,Manhattan,146,2024-06-01 06:10:00,2024-06-01 06:24:00,1,3.5,231,233,13.5,3.0,Uber Black,Uber Pay,16.5,Saturday,June,6,22,14.0
+145,146,Long Island City/Queens Plaza,The Bronx,147,2024-06-01 06:40:00,2024-06-01 06:45:00,1,1.94,142,236,7.5,0.0,UberX,Cash,7.5,Saturday,June,6,22,5.0
+146,147,Longwood,Brooklyn,148,2024-06-01 06:11:00,2024-06-01 06:17:00,1,1.7,137,4,7.5,0.0,UberX,Cash,7.5,Saturday,June,6,22,6.0
+147,148,Lower East Side,Queens,149,2024-06-01 05:57:00,2024-06-01 06:02:00,1,1.4,186,230,6.5,2.0,UberXL,Uber Pay,8.5,Saturday,June,5,22,5.0
+148,149,Madison,Manhattan,150,2024-06-01 06:55:00,2024-06-01 07:05:00,1,2.47,90,231,9.5,3.0,UberX,Uber Pay,12.5,Saturday,June,6,22,10.0
+149,150,Manhattan Beach,Manhattan,151,2024-06-01 06:06:00,2024-06-01 06:42:00,1,18.93,143,214,52.5,14.0,Uber Green,Uber Pay,66.5,Saturday,June,6,22,36.0
+150,151,Manhattan Valley,Manhattan,152,2024-06-01 06:22:00,2024-06-01 06:47:00,1,11.9,163,93,35.0,0.0,UberX,Cash,35.0,Saturday,June,6,22,25.0
+151,152,Manhattanville,Manhattan,153,2024-06-01 06:57:00,2024-06-01 07:04:00,1,1.6,140,75,8.0,2.0,Uber Black,Uber Pay,10.0,Saturday,June,6,22,7.0
+152,15110,Marble Hill,Manhattan,154,2024-06-01 06:56:00,2024-06-01 07:01:00,2,1.52,162,236,6.5,3.0,UberXL,Uber Pay,9.5,Saturday,June,6,22,5.0
+153,154,Marine Park/Floyd Bennett Field,Brooklyn,155,2024-06-01 06:56:00,2024-06-01 07:02:00,4,1.67,140,233,7.5,2.0,Uber Green,Uber Pay,9.5,Saturday,June,6,22,6.0
+154,155,Marine Park/Mill Basin,Manhattan,156,2024-06-01 06:30:00,2024-06-01 06:45:00,1,4.51,262,226,15.5,2.0,UberX,Uber Pay,17.5,Saturday,June,6,22,15.0
+155,15111,05/06/2024 18:28,05/06/2024 18:44,157,2024-06-01 06:25:00,2024-06-01 06:38:00,1,3.44,238,170,13.0,4.0,Uber Green,Uber Pay,17.0,Saturday,June,6,22,13.0
+156,157,Maspeth,Manhattan,158,2024-06-01 06:00:00,2024-06-01 06:06:00,1,1.2,162,246,6.5,0.0,UberXL,Cash,6.5,Saturday,June,6,22,6.0
+157,158,Meatpacking/West Village West,Queens,159,2024-06-01 06:37:00,2024-06-01 06:43:00,1,2.0,237,170,7.5,0.0,UberXL,Cash,7.5,Saturday,June,6,22,6.0
+158,15112,05/06/2024 18:40,Staten Island,160,2024-06-01 06:42:00,2024-06-01 06:54:00,1,3.41,236,50,12.5,3.0,UberX,Uber Pay,15.5,Saturday,June,6,22,12.0
+159,160,Middle Village,Queens,161,2024-06-01 06:26:00,2024-06-01 06:33:00,1,1.7,148,137,8.0,2.0,Uber Green,Uber Pay,10.0,Saturday,June,6,22,7.0
+160,161,Midtown Center,The Bronx,162,2024-06-01 06:57:00,2024-06-01 07:09:00,1,1.74,75,166,9.5,0.0,UberX,Cash,9.5,Saturday,June,6,22,12.0
+161,162,Midtown East,Queens,163,2024-06-01 06:34:00,2024-06-01 06:36:00,1,1.11,79,137,5.0,2.0,UberX,Uber Pay,7.0,Saturday,June,6,22,2.0
+162,15113,Midtown North,Brooklyn,164,2024-06-01 06:26:00,2024-06-01 06:33:00,1,2.12,142,161,8.5,0.0,UberX,Cash,8.5,Saturday,June,6,22,7.0
+163,164,Midtown South,Brooklyn,165,2024-06-01 06:20:00,2024-06-01 06:25:00,1,1.83,233,140,7.0,2.0,UberXL,Uber Pay,9.0,Saturday,June,6,22,5.0
+164,165,Midwood,Queens,166,2024-06-01 06:37:00,2024-06-01 06:44:00,1,1.93,186,162,8.0,2.0,UberX,Uber Pay,10.0,Saturday,June,6,22,7.0
+165,166,Morningside Heights,Brooklyn,167,2024-06-01 06:03:00,2024-06-01 06:13:00,2,1.64,100,137,8.5,0.0,Uber Black,Cash,8.5,Saturday,June,6,22,10.0
+166,167,Morrisania/Melrose,The Bronx,168,2024-06-01 06:22:00,2024-06-01 06:26:00,2,1.01,170,161,5.0,2.0,UberX,Uber Pay,7.0,Saturday,June,6,22,4.0
+167,15114,05/06/2024 18:12,05/06/2024 18:35,169,2024-06-01 06:42:00,2024-06-01 06:48:00,1,2.4,262,233,9.0,3.0,Uber Green,Uber Pay,12.0,Saturday,June,6,22,6.0
+168,169,Mount Hope,Manhattan,170,2024-06-01 06:49:00,2024-06-01 07:09:00,1,4.84,233,260,18.5,0.0,Uber Black,Cash,18.5,Saturday,June,6,22,20.0
+169,170,Murray Hill,Queens,171,2024-06-01 06:53:00,2024-06-01 07:09:00,1,2.9,43,140,13.0,3.0,UberX,Uber Pay,16.0,Saturday,June,6,22,16.0
+170,171,Murray Hill-Queens,Queens,172,2024-06-01 06:44:00,2024-06-01 06:59:00,1,5.28,238,158,17.5,5.0,UberX,Uber Pay,22.5,Saturday,June,6,22,15.0
+171,172,New Dorp/Midland Beach,Queens,173,2024-06-01 06:37:00,2024-06-01 07:03:00,1,11.68,132,49,33.5,7.0,UberX,Uber Pay,40.5,Saturday,June,6,22,26.0
+172,173,North Corona,Manhattan,174,2024-06-01 06:00:00,2024-06-01 06:14:00,1,3.3,166,262,13.0,0.0,UberX,Uber Pay,13.0,Saturday,June,6,22,14.0
+173,174,Norwood,Brooklyn,175,2024-06-01 06:29:00,2024-06-01 06:38:00,1,2.9,162,75,10.5,2.0,Uber Black,Uber Pay,12.5,Saturday,June,6,22,9.0
+174,175,Oakland Gardens,Queens,176,2024-06-01 06:22:00,2024-06-01 06:28:00,1,1.4,48,162,7.0,1.0,Uber Comfort,Uber Pay,8.0,Saturday,June,6,22,6.0
+175,15115,Oakwood,Queens,177,2024-06-01 06:33:00,2024-06-01 06:42:00,1,3.32,161,232,12.0,4.0,Uber Black,Uber Pay,16.0,Saturday,June,6,22,9.0
+176,177,Ocean Hill,Queens,178,2024-06-01 06:54:00,2024-06-01 07:01:00,1,2.73,107,140,9.0,0.0,UberX,Cash,9.0,Saturday,June,6,22,7.0
+177,178,Ocean Parkway South,Queens,179,2024-06-01 06:14:00,2024-06-01 06:28:00,3,3.42,142,137,13.5,3.0,Uber Black,Uber Pay,16.5,Saturday,June,6,22,14.0
+178,179,Old Astoria,Queens,180,2024-06-01 06:54:00,2024-06-01 06:59:00,1,1.1,264,161,6.0,0.0,UberX,Amazon Pay,6.0,Saturday,June,6,22,5.0
+179,15116,Ozone Park,Manhattan,181,2024-06-01 06:56:00,2024-06-01 07:02:00,3,1.3,263,140,7.0,0.0,UberX,Cash,7.0,Saturday,June,6,22,6.0
+180,181,Park Slope,Queens,182,2024-06-01 06:59:00,2024-06-01 07:08:00,1,1.84,140,75,8.5,1.0,UberX,Uber Pay,9.5,Saturday,June,6,22,9.0
+181,182,Parkchester,Bronx,183,2024-06-01 06:55:00,2024-06-01 07:07:00,1,2.0,41,75,10.0,0.0,UberX,Cash,10.0,Saturday,June,6,22,12.0
+182,183,Pelham Bay,Bronx,184,2024-06-01 06:24:00,2024-06-01 06:28:00,1,1.09,164,161,5.5,0.0,Uber Comfort,Cash,5.5,Saturday,June,6,22,4.0
+183,184,Pelham Bay Park,Bronx,185,2024-06-01 06:34:00,2024-06-01 06:52:00,1,3.72,114,25,15.5,0.0,Uber Black,Cash,15.5,Saturday,June,6,22,18.0
+184,185,Pelham Parkway,Bronx,186,2024-06-01 06:43:00,2024-06-01 06:54:00,1,3.51,236,233,12.5,3.0,Uber Black,Uber Pay,15.5,Saturday,June,6,22,11.0
+185,15118,05/06/2024 18:13,05/06/2024 18:24,187,2024-06-01 06:26:00,2024-06-01 06:38:00,6,3.06,142,137,12.0,0.0,UberX,Cash,12.0,Saturday,June,6,22,12.0
+186,187,Port Richmond,Staten Island,188,2024-06-01 05:58:00,2024-06-01 06:29:00,1,10.58,42,185,33.5,0.0,UberX,Cash,33.5,Saturday,June,5,22,31.0
+187,188,Prospect-Lefferts Gardens,Brooklyn,189,2024-06-01 06:33:00,2024-06-01 06:38:00,1,1.54,162,237,6.5,3.0,UberX,Uber Pay,9.5,Saturday,June,6,22,5.0
+188,15119,Prospect Heights,Brooklyn,190,2024-06-01 06:46:00,2024-06-01 06:54:00,2,1.39,186,137,7.0,0.0,UberX,Cash,7.0,Saturday,June,6,22,8.0
+189,15121,05/06/2024 18:20,Brooklyn,191,2024-06-01 06:36:00,2024-06-01 06:45:00,1,2.6,236,142,9.5,2.0,UberX,Uber Pay,11.5,Saturday,June,6,22,9.0
+190,191,Queens Village,Queens,192,2024-06-01 06:52:00,2024-06-01 07:00:00,1,2.7,238,68,9.5,0.0,UberX,Cash,9.5,Saturday,June,6,22,8.0
+191,192,Queensboro Hill,Queens,193,2024-06-01 06:19:00,2024-06-01 06:23:00,1,1.02,186,161,5.5,0.0,Uber Black,Cash,5.5,Saturday,June,6,22,4.0
+192,193,05/06/2024 18:21,Queens,194,2024-06-01 06:51:00,2024-06-01 06:54:00,1,1.47,239,166,6.0,2.0,Uber Green,Uber Pay,8.0,Saturday,June,6,22,3.0
+193,194,Randalls Island,Manhattan,195,2024-06-01 06:00:00,2024-06-01 06:06:00,1,2.0,264,162,8.0,2.0,UberX,Uber Pay,10.0,Saturday,June,6,22,6.0
+194,15124,05/06/2024 18:44,Brooklyn,196,2024-06-01 06:30:00,2024-06-01 06:43:00,1,3.0,229,113,12.0,3.0,Uber Black,Uber Pay,15.0,Saturday,June,6,22,13.0
+195,196,Rego Park,Queens,197,2024-06-01 06:30:00,2024-06-01 06:38:00,1,2.7,230,211,9.5,1.0,UberX,Uber Pay,10.5,Saturday,June,6,22,8.0
+196,197,Richmond Hill,Queens,198,2024-06-01 06:36:00,2024-06-01 06:44:00,1,1.8,68,161,8.0,0.0,Uber Green,Cash,8.0,Saturday,June,6,22,8.0
+197,198,Ridgewood,Queens,199,2024-06-01 06:25:00,2024-06-01 06:29:00,1,2.0,263,233,7.5,0.0,UberXL,Cash,7.5,Saturday,June,6,22,4.0
+198,199,Rikers Island,Bronx,200,2024-06-01 06:36:00,2024-06-01 06:39:00,2,1.2,107,170,5.5,2.0,UberX,Uber Pay,7.5,Saturday,June,6,22,3.0
+199,200,Riverdale/North Riverdale/Fieldston,Bronx,201,2024-06-01 06:43:00,2024-06-01 06:55:00,1,2.8,68,141,11.5,1.0,UberX,Uber Pay,12.5,Saturday,June,6,22,12.0
+200,201,Rockaway Park,Queens,202,2024-06-01 06:59:00,2024-06-01 07:09:00,1,2.5,141,164,10.0,3.0,Uber Black,Uber Pay,13.0,Saturday,June,6,22,10.0
+201,202,Roosevelt Island,Manhattan,203,2024-06-01 06:32:00,2024-06-01 06:35:00,1,1.43,233,107,6.0,0.0,UberX,Cash,6.0,Saturday,June,6,22,3.0
+202,203,Rosedale,Queens,204,2024-06-01 06:53:00,2024-06-01 07:03:00,1,2.92,90,143,10.5,3.0,UberX,Uber Pay,13.5,Saturday,June,6,22,10.0
+203,15128,Rossville/Woodrow,Staten Island,205,2024-06-01 06:15:00,2024-06-01 06:30:00,1,4.39,239,113,15.5,0.0,UberXL,Cash,15.5,Saturday,June,6,22,15.0
+204,205,Saint Albans,Queens,206,2024-06-01 06:33:00,2024-06-01 06:40:00,1,1.39,186,137,7.5,2.0,UberX,Uber Pay,9.5,Saturday,June,6,22,7.0
+205,206,Saint George/New Brighton,Staten Island,207,2024-06-01 06:02:00,2024-06-01 06:08:00,1,1.4,48,162,7.0,3.0,UberX,Uber Pay,10.0,Saturday,June,6,22,6.0
+206,15129,05/06/2024 18:43,Queens,208,2024-06-01 06:35:00,2024-06-01 06:46:00,1,2.03,233,68,10.0,6.0,UberX,Uber Pay,16.0,Saturday,June,6,22,11.0
+207,208,Schuylerville/Edgewater Park,Bronx,209,2024-06-01 06:21:00,2024-06-01 06:26:00,1,1.7,48,143,7.0,2.0,UberX,Uber Pay,9.0,Saturday,June,6,22,5.0
+208,15131,05/06/2024 15:00,Manhattan,210,2024-06-01 06:47:00,2024-06-01 06:53:00,1,2.43,107,140,8.5,2.0,Uber Comfort,Uber Pay,10.5,Saturday,June,6,22,6.0
+209,15132,05/06/2024 18:25,05/06/2024 18:42,211,2024-06-01 06:25:00,2024-06-01 06:32:00,1,1.34,186,161,7.0,3.0,UberX,Uber Pay,10.0,Saturday,June,6,22,7.0
+210,15133,SoHo,Manhattan,212,2024-06-01 06:38:00,2024-06-01 06:46:00,1,1.9,186,237,8.5,0.0,UberX,Cash,8.5,Saturday,June,6,22,8.0
+211,212,Soundview/Bruckner,Bronx,213,2024-06-01 06:46:00,2024-06-01 06:56:00,1,2.3,226,7,10.5,0.0,UberXL,Cash,10.5,Saturday,June,6,22,10.0
+212,15134,Soundview/Castle Hill,Bronx,214,2024-06-01 06:41:00,2024-06-01 06:58:00,2,1.41,186,137,11.5,3.0,UberX,Uber Pay,14.5,Saturday,June,6,22,17.0
+213,214,South Beach/Dongan Hills,Staten Island,215,2024-06-01 06:35:00,2024-06-01 06:43:00,1,2.2,238,74,9.0,0.0,UberX,Cash,9.0,Saturday,June,6,22,8.0
+214,15135,South Jamaica,Queens,216,2024-06-01 06:54:00,2024-06-01 07:03:00,1,1.8,170,211,8.0,3.0,UberX,Uber Pay,11.0,Saturday,June,6,22,9.0
+215,216,South Ozone Park,Queens,217,2024-06-01 06:47:00,2024-06-01 06:55:00,4,1.57,75,43,8.0,0.0,UberX,Cash,8.0,Saturday,June,6,22,8.0
+216,15136,05/06/2024 18:43,05/06/2024 18:52,218,2024-06-01 06:28:00,2024-06-01 06:48:00,1,5.66,48,260,20.0,7.0,Uber Black,Uber Pay,27.0,Saturday,June,6,22,20.0
+217,15137,05/06/2024 18:09,05/06/2024 18:26,219,2024-06-01 06:51:00,2024-06-01 07:07:00,1,3.6,231,68,14.5,0.0,Uber Black,Cash,14.5,Saturday,June,6,22,16.0
+218,219,Springfield Gardens South,Queens,220,2024-06-01 06:49:00,2024-06-01 06:53:00,1,1.74,262,74,6.5,0.0,Uber Comfort,Cash,6.5,Saturday,June,6,22,4.0
+219,220,Spuyten Duyvil/Kingsbridge,Bronx,221,2024-06-01 06:11:00,2024-06-01 06:18:00,1,1.4,107,68,7.5,0.0,UberXL,Cash,7.5,Saturday,June,6,22,7.0
+220,15139,Stapleton,Staten Island,222,2024-06-01 06:07:00,2024-06-01 06:16:00,1,2.4,162,114,10.0,4.0,Uber Black,Uber Pay,14.0,Saturday,June,6,22,9.0
+221,222,Starrett City,Brooklyn,223,2024-06-01 06:24:00,2024-06-01 06:44:00,1,4.56,100,75,18.0,4.0,UberXL,Uber Pay,22.0,Saturday,June,6,22,20.0
+222,15140,Steinway,Queens,224,2024-06-01 06:33:00,2024-06-01 06:40:00,1,1.52,140,163,7.5,2.0,UberX,Uber Pay,9.5,Saturday,June,6,22,7.0
+223,224,Stuy Town/Peter Cooper Village,Manhattan,225,2024-06-01 06:51:00,2024-06-01 06:59:00,1,1.64,142,140,8.0,1.0,Uber Comfort,Uber Pay,9.0,Saturday,June,6,22,8.0
+224,225,Stuyvesant Heights,Brooklyn,226,2024-06-01 06:26:00,2024-06-01 06:38:00,1,4.0,161,74,13.5,0.0,Uber Black,Cash,13.5,Saturday,June,6,22,12.0
+225,226,Sunnyside,Queens,227,2024-06-01 06:58:00,2024-06-01 07:07:00,1,3.1,79,141,10.5,0.0,Uber Black,Cash,10.5,Saturday,June,6,22,9.0
+226,15141,Sunset Park East,Brooklyn,228,2024-06-01 06:08:00,2024-06-01 06:19:00,1,1.74,100,107,9.0,0.0,UberXL,Cash,9.0,Saturday,June,6,22,11.0
+227,15142,05/06/2024 18:46,Brooklyn,229,2024-06-01 06:31:00,2024-06-01 06:39:00,1,1.32,162,50,7.0,2.0,UberXL,Uber Pay,9.0,Saturday,June,6,22,8.0
+228,229,Sutton Place/Turtle Bay North,Manhattan,230,2024-06-01 06:37:00,2024-06-01 06:40:00,1,1.1,262,140,5.0,2.0,Uber Comfort,Uber Pay,7.0,Saturday,June,6,22,3.0
+229,15143,05/06/2024 18:15,Manhattan,231,2024-06-01 06:55:00,2024-06-01 07:06:00,1,3.64,186,75,12.5,3.0,Uber Black,Uber Pay,15.5,Saturday,June,6,22,11.0
+230,231,TriBeCa/Civic Center,Manhattan,232,2024-06-01 06:57:00,2024-06-01 07:33:00,1,26.64,132,20,70.5,0.0,UberX,Cash,70.5,Saturday,June,6,22,36.0
+231,232,Two Bridges/Seward Park,Manhattan,233,2024-06-01 06:45:00,2024-06-01 06:51:00,1,1.9,186,114,7.5,0.0,UberXL,Cash,7.5,Saturday,June,6,22,6.0
+232,15145,UN/Turtle Bay South,Manhattan,234,2024-06-01 06:23:00,2024-06-01 06:39:00,1,4.19,41,140,16.0,4.0,Uber Black,Uber Pay,20.0,Saturday,June,6,22,16.0
+233,15146,05/06/2024 18:04,Manhattan,235,2024-06-01 06:46:00,2024-06-01 07:13:00,1,7.48,229,116,26.0,2.0,UberX,Uber Pay,28.0,Saturday,June,6,22,27.0
+234,235,University Heights/Morris Heights,Bronx,236,2024-06-01 06:46:00,2024-06-01 06:54:00,1,2.0,148,170,8.5,0.0,UberX,Cash,8.5,Saturday,June,6,22,8.0
+235,15147,05/06/2024 18:20,Manhattan,237,2024-06-01 06:28:00,2024-06-01 06:33:00,1,1.16,161,68,6.5,0.0,UberXL,Cash,6.5,Saturday,June,6,22,5.0
+236,237,Upper East Side South,Manhattan,238,2024-06-01 06:30:00,2024-06-01 06:40:00,3,3.27,186,151,12.0,3.0,UberX,Uber Pay,15.0,Saturday,June,6,22,10.0
+237,238,Upper West Side North,Manhattan,239,2024-06-01 06:45:00,2024-06-01 06:51:00,5,1.33,264,264,6.5,0.0,UberX,Cash,6.5,Saturday,June,6,22,6.0
+238,15148,05/06/2024 18:39,05/06/2024 18:48,240,2024-06-01 07:13:00,2024-06-01 07:21:00,1,1.54,100,233,7.5,0.0,UberX,Cash,7.5,Saturday,June,7,22,8.0
+239,15150,Van Cortlandt Park,Bronx,241,2024-06-01 07:34:00,2024-06-01 07:43:00,1,3.2,50,24,11.0,0.0,UberXL,Cash,11.0,Saturday,June,7,22,9.0
+240,241,Van Cortlandt Village,Bronx,242,2024-06-01 07:28:00,2024-06-01 07:38:00,2,1.55,142,141,8.5,0.0,UberX,Cash,8.5,Saturday,June,7,22,10.0
+241,242,Van Nest/Morris Park,Bronx,243,2024-06-01 07:35:00,2024-06-01 07:44:00,1,1.1,262,141,7.5,0.0,UberX,Cash,7.5,Saturday,June,7,22,9.0
+242,243,Washington Heights North,Manhattan,244,2024-06-01 07:04:00,2024-06-01 07:10:00,1,1.38,170,107,6.5,2.0,Uber Comfort,Uber Pay,8.5,Saturday,June,7,22,6.0
+243,244,Washington Heights South,Manhattan,245,2024-06-01 07:12:00,2024-06-01 07:18:00,1,1.6,186,163,7.0,2.0,UberX,Uber Pay,9.0,Saturday,June,7,22,6.0
+244,245,West Brighton,Staten Island,246,2024-06-01 07:06:00,2024-06-01 07:25:00,1,8.2,239,261,25.0,6.0,UberX,Uber Pay,31.0,Saturday,June,7,22,19.0
+245,15155,West Chelsea/Hudson Yards,Manhattan,247,2024-06-01 07:26:00,2024-06-01 07:31:00,1,1.28,229,233,6.0,2.0,Uber Black,Uber Pay,8.0,Saturday,June,7,22,5.0
+246,15156,05/06/2024 18:04,Bronx,248,2024-06-01 07:10:00,2024-06-01 07:17:00,1,1.7,263,162,7.5,0.0,UberX,Cash,7.5,Saturday,June,7,22,7.0
+247,248,West Farms/Bronx River,Bronx,249,2024-06-01 07:56:00,2024-06-01 08:07:00,1,4.5,75,137,14.5,4.0,Uber Comfort,Uber Pay,18.5,Saturday,June,7,22,11.0
+248,15157,05/06/2024 18:35,05/06/2024 18:50,250,2024-06-01 07:11:00,2024-06-01 07:22:00,1,4.23,263,168,14.0,5.0,UberX,Uber Pay,19.0,Saturday,June,7,22,11.0
+249,250,Westchester Village/Unionport,Bronx,251,2024-06-01 07:07:00,2024-06-01 07:14:00,1,1.71,186,162,7.5,2.0,Uber Comfort,Uber Pay,9.5,Saturday,June,7,22,7.0
+250,251,Westerleigh,Staten Island,252,2024-06-01 07:35:00,2024-06-01 07:45:00,1,1.7,151,75,9.5,0.0,Uber Comfort,Cash,9.5,Saturday,June,7,22,10.0
+251,15158,05/06/2024 18:27,05/06/2024 18:43,253,2024-06-01 07:09:00,2024-06-01 07:15:00,1,1.02,262,140,6.0,3.0,Uber Comfort,Uber Pay,9.0,Saturday,June,7,22,6.0
+252,253,Willets Point,Queens,254,2024-06-01 07:26:00,2024-06-01 07:35:00,1,1.98,140,233,8.5,0.0,UberX,Cash,8.5,Saturday,June,7,22,9.0
+253,254,Williamsbridge/Olinville,Bronx,255,2024-06-01 07:05:00,2024-06-01 07:10:00,1,1.09,162,137,6.0,2.0,UberX,Uber Pay,8.0,Saturday,June,7,22,5.0
+254,15159,05/06/2024 18:02,05/06/2024 18:12,256,2024-06-01 07:13:00,2024-06-01 07:49:00,2,7.5,68,61,29.0,0.0,UberX,Cash,29.0,Saturday,June,7,22,36.0
+255,256,Williamsburg (South Side),Brooklyn,257,2024-06-01 07:54:00,2024-06-01 07:58:00,1,1.46,137,79,6.0,0.0,UberX,Uber Pay,6.0,Saturday,June,7,22,4.0
+256,257,Windsor Terrace,Brooklyn,258,2024-06-01 07:23:00,2024-06-01 07:29:00,1,1.3,186,162,6.5,0.0,UberX,Cash,6.5,Saturday,June,7,22,6.0
+257,258,Woodhaven,Queens,259,2024-06-01 07:57:00,2024-06-01 08:02:00,1,1.3,237,162,6.0,1.0,Uber Comfort,Uber Pay,7.0,Saturday,June,7,22,5.0
+258,15162,05/06/2024 18:27,Bronx,260,2024-06-01 07:42:00,2024-06-01 07:51:00,1,2.1,262,142,9.0,0.0,Uber Black,Cash,9.0,Saturday,June,7,22,9.0
+259,15163,05/06/2024 18:27,05/06/2024 18:36,261,2024-06-01 07:36:00,2024-06-01 07:53:00,1,2.9,140,186,14.5,5.0,UberX,Uber Pay,19.5,Saturday,June,7,22,17.0
+260,15164,05/06/2024 18:41,05/06/2024 18:52,262,2024-06-01 07:14:00,2024-06-01 07:20:00,1,2.0,236,162,8.0,2.0,UberXL,Uber Pay,10.0,Saturday,June,7,22,6.0
+261,262,Yorkville East,Manhattan,263,2024-06-01 07:37:00,2024-06-01 07:47:00,1,3.4,262,170,12.0,3.0,UberX,Uber Pay,15.0,Saturday,June,7,22,10.0
+262,263,Yorkville West,Manhattan,264,2024-06-01 07:34:00,2024-06-01 07:46:00,3,3.59,107,43,12.5,4.0,UberXL,Uber Pay,16.5,Saturday,June,7,22,12.0
+263,15166,NV,N/A,265,2024-06-01 07:50:00,2024-06-01 07:59:00,1,2.88,143,90,10.5,3.0,UberX,Uber Pay,13.5,Saturday,June,7,22,9.0
+264,265,NA,N/A,266,2024-06-01 07:44:00,2024-06-01 08:00:00,2,7.96,140,244,23.5,5.0,UberX,Uber Pay,28.5,Saturday,June,7,22,16.0
