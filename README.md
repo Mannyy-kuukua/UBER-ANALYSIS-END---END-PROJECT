@@ -1,18 +1,27 @@
 # UBER-ANALYSIS-END-END-PROJECT
 END TO END DATA ANALYSIS DUMMY PROJECT
 
+## Table Of Content
+---
+* [Project Overview](#Project-Overview)
+* [Tool & Technologies](#Tools--Technologies)
+* [Project Structure](#Project-Structure)
+* [Analysis Workflow](#Analysis-Workflow)
+* [Dashbord Insights](#Dashboard-Insights)
+* [Insights](#Insights)
+* [Recommendation](#Recommendation)
+* [Conclusion](#Conclusion)
+
+# Uber Trip Analysis – June 2024
 
 
-# 🚖 Uber Trip Analysis – June 2024
-
-
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Uber rides recorded in **June 2024** with the goal of identifying trip trends, customer behavior, and revenue drivers. Using **MySQL, Python, and Power BI**, the workflow spans from raw data storage and cleaning to visualization and actionable insights.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **MySQL Workbench** – Database storage & management
 * **Python** – Exploratory Data Analysis (EDA)
@@ -23,7 +32,7 @@ This project analyzes Uber rides recorded in **June 2024** with the goal of iden
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── Uber Dataset.csv        # Raw dataset  
@@ -37,7 +46,7 @@ This project analyzes Uber rides recorded in **June 2024** with the goal of iden
 
 ---
 
-## 🔎 Analysis Workflow
+##  Analysis Workflow
 
 ### 1. Database Setup (MySQL)
 
@@ -84,7 +93,7 @@ print(df.head())
 
 ---
 
-## 📊 Dashboard Insights (Power BI)
+##  Dashboard Insights (Power BI)
 
 Key metrics and trends:
 
@@ -100,20 +109,20 @@ Key metrics and trends:
 
 ---
 
-## 📌 Insights
+##  Insights
 
-* 🚗 Ride volume grows steadily during the week, peaking on Sundays
-* 💰 UberX dominates demand, while Uber Pay is the top payment method
-* 🗺️ Brooklyn, Manhattan, and Queens generate the highest demand
+* Ride volume grows steadily during the week, peaking on Sundays
+* UberX dominates demand, while Uber Pay is the top payment method
+* Brooklyn, Manhattan, and Queens generate the highest demand
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
-* 📉 **Boost Friday usage:** Discounts, referral bonuses, or ride bundles
-* 🤝 **Corporate partnerships:** Subsidized weekday rides for employees
-* 🌱 **Expand Uber Green:** Attract eco-conscious riders with comfort upgrades
-* 📲 **Feedback Integration:** Use in-app surveys for continuous service improvement
+*  **Boost Friday usage:** Discounts, referral bonuses, or ride bundles
+*  **Corporate partnerships:** Subsidized weekday rides for employees
+*  **Expand Uber Green:** Attract eco-conscious riders with comfort upgrades
+*  **Feedback Integration:** Use in-app surveys for continuous service improvement
 
 ---
 
@@ -128,14 +137,14 @@ Key metrics and trends:
 ---<img width="1841" height="817" alt="p1" src="https://github.com/user-attachments/assets/54ea225c-49f0-4817-9970-f0bf2519405a" />
 
 
-## 🚀 Conclusion
+##  Conclusion
 
 This project demonstrates how combining **SQL, Python, and Power BI** creates a full **data analysis pipeline** from raw data to insights. The findings highlight patterns in customer behavior and provide recommendations for **data-driven business decisions**.
 
 ---
 
-✨ *Author: \[Manasia Dankwah Sackey]*
-📧 Contact: \[(email:sackeymanasia@gmail.com)]
-🔗 [LinkedIn](www.linkedin.com/in/manasia-sackey | [Portfolio](github.com/Mannyy-kuukua)
+ *Author: \[Manasia Dankwah Sackey]*
+ Contact: \[(email:sackeymanasia@gmail.com)]
+ [LinkedIn](www.linkedin.com/in/manasia-sackey | [Portfolio](github.com/Mannyy-kuukua)
 
 
